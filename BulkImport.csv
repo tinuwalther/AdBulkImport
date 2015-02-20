@@ -1,4 +1,4 @@
 GroupName,GroupType,GroupLocation,GroupDescription
 DG_HR_Assistents,Global,"OU=Import,DC=contoso,DC=com",Role HR-Assistents
-DL_R_XXX,DomainLocal,DomainLocal,"OU=Import,DC=contoso,DC=com",Read-Permission to XXX
-DL_W_XXX,DomainLocal,DomainLocal,"OU=Import,DC=contoso,DC=com",Write-Permission to XXX
+DL_R_XXX,DomainLocal,"OU=Import,DC=contoso,DC=com",Read-Permission to XXX
+DL_W_XXX,DomainLocal,"OU=Import,DC=contoso,DC=com",Write-Permission to XXX
